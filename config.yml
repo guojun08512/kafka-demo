@@ -1,0 +1,7 @@
+kafka:
+  brokers:
+    - "127.0.0.1:9092"
+  schemaRegistries:
+    - "127.0.0.1:8081"
+  topics:
+    - "test"
